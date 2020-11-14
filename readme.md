@@ -1,6 +1,6 @@
 Passo a passo:
 
-Registre em http://pro.coinmarketcap.com/account e copiar o API Key
+Registre-se em http://pro.coinmarketcap.com/account e copiar o API Key
 
 Usaremos a extensão do Google Chrome: Moesif Origin & CORS Changer
 
